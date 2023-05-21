@@ -7682,6 +7682,11 @@ react-error-overlay@^6.0.11:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.11.tgz#92835de5841c5cf08ba00ddd2d677b6d17ff9adb"
   integrity sha512-/6UZ2qgEyH2aqzYZgQPxEnz33NJ2gNsnHA2o5+o4wW9bLM/JYQitNP9xPhsXwC08hMMovfGe/8retsdDsczPRg==
 
+react-ig-feed@^1.7.0:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/react-ig-feed/-/react-ig-feed-1.7.0.tgz#55844aad8c86bc34bfd2589fecdd2101e99f24eb"
+  integrity sha512-eRnpdPaHfBihIEzJaQfXyOYTK9Mi7+QuEqjXmHeTwiSy0nI91t9gneioKPBWrcSn3zoW7ZGWXii2S3c7bQYlGw==
+
 react-instafeed@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/react-instafeed/-/react-instafeed-1.0.0.tgz#337f0c0087f4e5c012679c45062cadfaebe8e9f9"
