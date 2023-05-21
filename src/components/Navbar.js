@@ -15,7 +15,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light px-lg-5">
       <div className="container-fluid d-flex">
-        <a href="/" className="titletag">Madhusudhan Pathak</a>
+        <a href="/" className="titletag">MYSPY</a>
         <button
           className="navbar-toggler ms-auto"
           type="button"

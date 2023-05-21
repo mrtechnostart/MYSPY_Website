@@ -49,6 +49,9 @@ const data = [
         name: "Vaigyanik Viksit Vyang (V3) - Scientific Meme Page on Instagram",
         link: "https://www.instagram.com/vaigyanikviksitvyang",
       },
+      {
+        title:"Oth"
+      }
 ];
 
 module.exports = {
