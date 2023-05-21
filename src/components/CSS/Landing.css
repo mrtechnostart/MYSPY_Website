@@ -1,0 +1,11 @@
+.landingBody{
+    min-height: 100vh;
+}
+.landing-title{
+    font-size: x-large;
+}
+.primaryContainer{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
